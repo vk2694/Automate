@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">automate</string>
+    <string name="coordinate">enable service</string>
+    <string name="enable_service">Enable Service</string>
+    <string name="add_location">Add</string>
+    <string name="submit">Submit</string>
+    <string name="label1">Label1</string>
+    <string name="enable_items_5">Enable Items: 5</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="location">Location</string>
+    <string name="do_not_distrube">Do Not Distrube</string>
+    <string name="service_enabled">Please remove app in Battery Optimize, If added automatically</string>
+    <string name="service_disabled">You are Disabled the service, Automate settings not work.</string>
+    <string name="save">Save</string>
+    <string name="label_name">Label Name</string>
+    <string name="office">Office</string>
+    <string name="wi_fi">WI-FI</string>
+    <string name="media_volume">Media Volume</string>
+</resources>
